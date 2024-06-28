@@ -9,5 +9,7 @@
   ![Spring boot](https://img.shields.io/badge/Springboot-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-round&logo=githubactions&logoColor=white)
+
 </p>
 
