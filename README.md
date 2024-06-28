@@ -8,5 +8,6 @@
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
   ![Spring boot](https://img.shields.io/badge/Springboot-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
 </p>
 
