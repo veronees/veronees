@@ -1,5 +1,5 @@
 <a href="https://github.com/devxb/gitanimals">
-    <img src = "https://render.gitanimals.org/farms/veronees" width = "500">
+    <img src = "https://render.gitanimals.org/farms/veronees" width = "450">
 </a>
 
 ### 📚 Skills 📚
@@ -12,5 +12,5 @@
   ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-round&logo=githubactions&logoColor=white)
 
+![veronees's GitHub stats](https://github-readme-stats.vercel.app/api?username=veronees&show_icons=true&bg_color=00000000&title_color=F8418B&icon_color=F1D246&text_color=8C9196)
 </p>
-
