@@ -1,5 +1,5 @@
 <a href="https://github.com/devxb/gitanimals">
-    <img src = "https://render.gitanimals.org/farms/veronees" width = "450">
+    <img src="https://render.gitanimals.org/lines/veronees?pet-id=108" width="1000" height="120"/>
 </a>
 
 ### 📚 Skills 📚
