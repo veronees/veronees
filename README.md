@@ -1,6 +1,5 @@
 <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/veronees?pet-id=11" width="30%" height="100"/>
-    <img src="https://render.gitanimals.org/lines/veronees?pet-id=631571989594207456" width="30%" height="100"/>
+    <img src="https://render.gitanimals.org/lines/veronees?pet-id=11" width="50%" height="100"/><img src="https://render.gitanimals.org/lines/veronees?pet-id=631571989594207456" width="50%" height="100"/>
 </a>
 
 ### 📚 Skills 📚
