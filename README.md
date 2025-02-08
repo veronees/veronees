@@ -8,6 +8,11 @@
       />
     </a>
 
+<div align="center">
+<a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/lines/devxb?pet-id=108" width="30%" height="100"/><img src="https://render.gitanimals.org/lines/devxb?pet-id=647702354227091146" width="30%" height="100"/>
+</div>    
+
 ### 📚 Skills 📚
 <p>
     
