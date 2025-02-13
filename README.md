@@ -1,12 +1,12 @@
 <div align="center">
-<a href="https://www.gitanimals.org/">
+<!-- <a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/670313905921518275/draw"
         width="500"
         height="300"
         alt="gitanimals"
       />
-    </a>
+    </a> -->
 
 <div align="center">
 <a href="https://github.com/devxb/gitanimals">
